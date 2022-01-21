@@ -271,6 +271,7 @@ itay-guter
 - [Jalen Edington] (https://github.com/kyrlitp)
 - [Emre Cetin](https://github.com/h-emre-cetin)
 - [Vicente Soriano] (http://github.com/vicente-s)
+- Steven Chase (https://github.com/bbtrombone01)
 - [Antro Safin] (https://github.com/AntroSafin)
 - [Rojan Sapkota] (https://github.com/RojanGamingYT)
 - [Sumukh Mg] (https://github.com/sumukhmg)
